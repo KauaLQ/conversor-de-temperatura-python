@@ -1,0 +1,2 @@
+requests~=2.32.3
+PySimpleGUI~=5.0.6
